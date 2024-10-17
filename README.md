@@ -1,4 +1,4 @@
-# NBIT608
+# Prob Prog Research Gaming 
 Probabilistic Programming
 
 # Inspiration from other courses and workshop or seminar
